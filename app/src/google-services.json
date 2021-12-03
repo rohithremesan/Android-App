@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290002002131",
+    "project_id": "tinder-7b636",
+    "storage_bucket": "tinder-7b636.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290002002131:android:abedab5afb4cc63f383426",
+        "android_client_info": {
+          "package_name": "com.example.tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290002002131-np26ftfnb1gkr1mklpgc77kgg62kpcge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJFzHikOPA5WVcKU1GxVZJh5VqisK42dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290002002131-np26ftfnb1gkr1mklpgc77kgg62kpcge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

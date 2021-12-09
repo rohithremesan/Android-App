@@ -48,7 +48,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-auth'
     implementation 'com.google.firebase:firebase-firestore'
     implementation 'com.google.firebase:firebase-database:19.7.0'
-    implementation 'com.android.support:cardview-v7.26.0.0-alphal'
+    implementation 'androidx.cardview:cardview:1.0.0'
 
 
     testImplementation 'junit:junit:4.+'
